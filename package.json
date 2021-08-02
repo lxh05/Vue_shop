@@ -1,0 +1,17 @@
+{
+  "name": "vue_b2c",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-ui": "^2.15.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-plugin-router": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "babel-plugin-component": "^1.1.1",
+    "vue-cli-plugin-element": "^1.0.1"
+  }
+}
